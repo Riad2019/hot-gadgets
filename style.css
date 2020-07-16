@@ -1,0 +1,68 @@
+.carousel-indicators li {
+    padding: 2px 2px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 50%;
+    background: #333;
+}
+.order-now {
+    background: #333;
+    color: #fff;
+    padding: 5px 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(47, 196, 255);
+}
+.container{
+    margin-bottom: 50px;
+    margin-top: 10px;}
+    .navbar{
+        background-image: linear-gradient(to left, rgb(230, 238, 245), rgb(97, 144, 214));
+        border-radius: 20px;
+    }
+   
+ .card{
+        padding: 10px;
+        text-align: center;
+        border: none;
+        box-shadow: 5px 5px 10px rgb(149, 88, 230);
+        border-radius: 30px; } 
+.card:hover{
+
+    box-shadow: none;
+    transition: .5s;}
+span.cate{
+        border: 1px solid orange;
+        width: 9%;
+        height: 7px;
+        border-radius: 15 px;
+        display: inline-block;
+        background-color: orange;
+    }
+    .cate-bg{
+        box-shadow: 5px 5px 10px lightgray;
+        padding: 20px;
+        border-radius: 0 25px;
+    }
+    .cate-go{
+        margin: 25px 0;
+     }
+     .order img{
+        width: 100%;
+    }
+    footer{
+
+        text-align: center;
+    font-size: 13px;
+    background: rgb(239, 244, 247);
+    padding: 7px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    }
+  .order-now:hover{
+    box-shadow: none;
+    padding: 20px;
+    transition: .2s;
+  }
+  .color-bg{
+    background-color: #d9e4e9;
+  }
